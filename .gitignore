@@ -1,3 +1,4 @@
 .env
 A3venv
 __pycache__
+.gitignore
